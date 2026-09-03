@@ -1,0 +1,14 @@
+# build output
+sat_solver
+*.o
+*.d
+a.out
+
+# benchmarks / solver artifacts
+*.cnf
+*.drat
+*.proof
+*.out
+
+# macOS
+.DS_Store
